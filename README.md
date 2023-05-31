@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Isaac Nyarko - [Github](https://github.com/Isaac-Nyarko) / [Twitter](https://twitter.com/Khay_Fosu_Jnr)  
-Jennifer Huang - [Github](https://github.com/addardey) / [Twitter](https://twitter.com/addardey)
+Abigail Addardey- [Github](https://github.com/addardey) / [Twitter](https://twitter.com/addardey)
 
 ## License
 Public Domain. No copy write protection. 
